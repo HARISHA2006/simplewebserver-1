@@ -1,5 +1,8 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:13.03.2024
+## Name: HARISHA.S
+## Roll No:212223040063
+## DEPT:CSE
 
 ## AIM:
 To develop a simple webserver to serve html pages.
